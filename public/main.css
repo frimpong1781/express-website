@@ -1,0 +1,15 @@
+#header {
+     font-size: 40pt;
+     margin-left: 350px;
+     margin-right: 350px;
+}
+
+#para1,
+#para2 {
+     background-color: purple;
+     color: blanchedalmond;
+     margin-left: 300px;
+     margin-right: 300px;
+     font-size: 20pt;
+     padding: 10px;
+}
